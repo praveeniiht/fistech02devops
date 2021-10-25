@@ -1,1 +1,3 @@
 this is first line in git demo
+
+this is the second line in git command demo
